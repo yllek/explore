@@ -37,6 +37,7 @@ items:
  - NagiosEnterprises/nagioscore
  - zabbix/zabbix
  - komodorio/helm-dashboard
+ - kubeshop/monokle
  
 display_name: DevOps tools
 ---
